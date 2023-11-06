@@ -30,7 +30,7 @@ const siteProps = {
   gitHub: "microsoft",
   instagram: "microsoft",
   linkedIn: "satyanadella",
-  medium: "",
+  medium: "www.google.com",
   twitter: "microsoft",
   youTube: "Code",
 };
